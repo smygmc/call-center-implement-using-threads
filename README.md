@@ -1,4 +1,4 @@
-# call-center-implement-using-threads
+# call-center-implementation-using-threads
 An assignment I made for imitating a call center operation using threads and semaphores in Java.
 ---INSTRUCTIONS---
 There is a phone operation station with two ladies working in. The duty of these ladies is to establish connections between people trying to call each other on two sides of a city. Everything in this station is analogue; there are only two physical cables to make people talk. This means that only two phone calls may occur at the same time.
